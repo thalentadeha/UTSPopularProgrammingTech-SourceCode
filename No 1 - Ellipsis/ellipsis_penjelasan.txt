@@ -1,0 +1,3 @@
+Bentuk Ellipsis ...tipedata
+
+digunakan jika jumlah passing argumen ke sebuah fungsi tidak tentu
